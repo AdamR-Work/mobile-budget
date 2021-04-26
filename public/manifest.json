@@ -1,0 +1,40 @@
+ {
+    "name": "mobile-budget",
+    "short_name": "budget",
+    "description": "An app that can be used offline when your vactioning in places with no service.",
+    "start_url": "index.html",
+    "icons": [
+        {
+          "src": "/icons/icon_512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "src": "/icons/icon_384x384.png",
+          "type": "image/png",
+          "sizes": "384x384"
+        },
+      
+        {
+          "src": "/icons/icon_192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/icons/icon_128x128.png",
+          "type": "image/png",
+          "sizes": "128x128"
+        },
+        {
+          "src": "/icons/icon_96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        }
+    ],
+    "orientation": "portrait-primary",
+    "display": "minimal-ui",
+    "background_color": "#017f9b",
+    "theme_color": "#ffffff"
+ } 
+    
+    
