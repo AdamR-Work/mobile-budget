@@ -1,4 +1,5 @@
 // Globals
+// Files to save in the service-worker to make it offline
 const DATA_CACHE_NAME = "data-bank-v1"
 const FILES_TO_CACHE = [
     "/",
@@ -18,7 +19,7 @@ const FILES_TO_CACHE = [
     './icons/icon-512x512.png',
 
 ]
-
+// App naming
 const APP_PREFIX = 'mobile-budget  ';
 const VERSION = 'v_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
